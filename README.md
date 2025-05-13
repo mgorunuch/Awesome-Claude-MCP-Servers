@@ -45,6 +45,7 @@ Access real-time web information and specialized search capabilities.
 Query and analyze data while maintaining security.
 
 - [@modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) 📱 🏠 - PostgreSQL integration with schema inspection
+- [mgorunuch/postgres-mcp-server](https://github.com/mgorunuch/postgres-mcp-server) 🏃 🏠 - A Go-based MCP server for PostgreSQL databases with security features
 - [@modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) 🐍 🏠 - SQLite operations with analysis features
 
 ## Extended Capabilities

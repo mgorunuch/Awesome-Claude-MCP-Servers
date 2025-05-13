@@ -44,6 +44,7 @@
 在保持安全的同时查询和分析数据。
 
 - [@modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) 📱 🏠 - PostgreSQL 集成及架构检查
+- [mgorunuch/postgres-mcp-server](https://github.com/mgorunuch/postgres-mcp-server) 🏃 🏠 - 基于 Go 的 PostgreSQL 数据库 MCP 服务器，具有安全功能
 - [@modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) 🐍 🏠 - 具有分析功能的 SQLite 操作
 
 ## 扩展功能
